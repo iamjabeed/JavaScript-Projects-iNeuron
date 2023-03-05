@@ -1,4 +1,4 @@
-## JavaScript Projects
+## All JavaScript Projects
 
 ### [Complete Form Validation](https://github.com/iamjabeed/Form-validation)
 ### [Jokes generotor APi](https://github.com/iamjabeed/JokesGenerator---API)
